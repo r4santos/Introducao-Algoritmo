@@ -258,19 +258,7 @@ Saída esperada:
 S = 2.666667
 ```
 
-## Como executar os programas
-No terminal, entre na pasta AP05 e execute o arquivo desejado.
-
-Exemplo no Windows:
-
-```powershell
-cd "c:\Users\rafae\Documents\Dev\Introduçao-Algoritmos\AP05"
-python .\controle_vendas.py
-```
-
-Se você estiver usando ambiente virtual, ative-o antes de executar os scripts.
-
 ## Observações
-- A maioria dos exercícios foi pensada para treino de lógica com while.
+- A maioria dos exercícios foram pensados para treino de lógica com while.
 - Em exercícios com valor de parada (0 ou -1), esse marcador não entra nos cálculos.
 - Para manter padrão de saída, prefira imprimir resultados com mensagem descritiva.
