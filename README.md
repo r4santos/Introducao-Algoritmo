@@ -44,19 +44,6 @@ Ao longo das atividades, os principais tópicos trabalhados são:
 - organização de algoritmos no fluxo:
   - Entrada -> Processamento -> Saída
 
-## Como executar os exercícios
-
-1. Acesse a pasta do repositório.
-2. Entre na pasta da atividade desejada (por exemplo, AP04 ou AP05).
-3. Execute o arquivo Python correspondente.
-
-Exemplo no Windows:
-
-```powershell
-cd "c:\Users\rafae\Documents\Dev\Introduçao-Algoritmos\AP05"
-python .\controle_vendas.py
-```
-
 ## Observações acadêmicas
 
 - Este repositório tem finalidade educacional.
