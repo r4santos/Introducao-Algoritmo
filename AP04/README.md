@@ -192,16 +192,6 @@ Classificação: Ouro
 Participante destaque da competição
 ```
 
-## Como executar
-No terminal, entre na pasta AP04 e execute o arquivo desejado.
-
-Exemplo no Windows:
-
-```powershell
-cd "c:\Users\rafae\Documents\Dev\Introduçao-Algoritmos\AP04"
-python .\class_temp.py
-```
-
 ## Observações
 
 - Priorize clareza na leitura das condições.
