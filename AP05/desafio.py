@@ -7,10 +7,6 @@ def Header():
     Clear_Screen()
     print("=" * 60 + f"\n{'Sistema Simples de Caixa Com Validação de Produto':^60}" + "\n" + "=" * 60)
 
-def Press_Enter(mensagem="Pressione ENTER  para continuar"):
-    input(mensagem)
-    return True    
-
 loop = True
 menu1 = 6
 total_vendido = 0
